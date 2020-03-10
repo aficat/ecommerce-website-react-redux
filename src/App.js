@@ -50,7 +50,7 @@ class App extends Component {
     this.setState(state => {
       if (state.sort !== '') {
         state.products.sort((a, b) =>
-          (state.sort === 'lowestprice'
+          (state.sort === 'lowest'
             ? ((a.price > b.price) ? 1 : -1)
             : ((a.price < b.price) ? 1 : -1)));
       } else {
