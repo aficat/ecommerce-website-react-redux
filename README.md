@@ -2,9 +2,7 @@
 
 This is a simple e-commerce website created using React and Redux.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and it was taught through a 
-
-Udemy tutorial: [Build Ecommerce Website by React & Redux in One hour](https://www.udemy.com/share/101W1uAEMZdF5XQX4G/) by Bassir JD.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and it was taught through a Udemy tutorial: [Build Ecommerce Website by React & Redux in One hour](https://www.udemy.com/share/101W1uAEMZdF5XQX4G/) by Bassir JD.
 
 ## Available Scripts
 
