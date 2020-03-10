@@ -1,9 +1,15 @@
+#E-commerce Website using React and Redux
+
 This is a simple e-commerce website created using React and Redux.
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and it was taught through a Udemy tutorial: [Build Ecommerce Website by React & Redux in One hour](https://www.udemy.com/share/101W1uAEMZdF5XQX4G/).
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and it was taught through a 
+
+Udemy tutorial: [Build Ecommerce Website by React & Redux in One hour](https://www.udemy.com/share/101W1uAEMZdF5XQX4G/).
 
 ## Available Scripts
 
 Run json-server `npx json-server -p 8000 db.json` for products json data.
+
 In the project directory, you can run:
 
 ### `npm start`
